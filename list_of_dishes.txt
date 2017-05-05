@@ -1,0 +1,5 @@
+MENU
+dish_4: 36 eur
+dish_3: 20 eur
+dish_2: 10 eur
+dish_1: 50 eur
